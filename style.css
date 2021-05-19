@@ -1,0 +1,43 @@
+body {
+	font-family:Arial,Helvetica;
+	padding:10px
+}
+
+h1 {
+	font-family:Brush Script MT,Arial;
+	font-size:60px;
+}
+
+.Title {
+	text-align:center;
+	color:#0000ff;
+}
+/* Add a black background color to the top navigation */
+nav {
+  background-color: #444444;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.navbar {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+nav a {
+	background-color:#444444
+}
+nav a:hover {
+	background-color:#0000ff
+}
+
+nav a:active{
+	background-color:#0000ff
+}
+
+footer {
+	padding:30px;
+}
