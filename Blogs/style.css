@@ -21,7 +21,7 @@ h1 {
   text-align: center;
 }
 
-/* Add a black background color to the top navigation */
+/* Add a background color to the top navigation */
 nav {
 	background-color: #87CEEB;
 	overflow: hidden;
@@ -68,5 +68,5 @@ footer {
 .code {
 	background-color:#e0e0e0;
 	padding:5px;
-	border: solid black 1px;
+	border-left: solid #87CEEB 5px;
 }
